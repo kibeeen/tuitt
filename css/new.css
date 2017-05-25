@@ -1,0 +1,33 @@
+.container {
+	width: 80%;
+	max-width: 500px;
+	/*height: 400px;*/
+	border: 1px solid black;
+	margin: 100px auto;
+}
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.left {
+	float: left;
+	width: 30%;
+	border: 1px solid red;
+}
+
+.right {
+	float: right;
+	width: 69%;
+	border: 1px solid blue;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	margin: 0;
+}

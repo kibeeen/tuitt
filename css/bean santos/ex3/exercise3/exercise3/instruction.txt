@@ -1,0 +1,16 @@
+Exercise 3
+
+Goal: Replicate the webpage in "Exercise 3 Output" folder using the concepts you learned so far in HTML and CSS. Open "index.html" to see final output. (Note: open the page via browser only. This will serve as your reference to achieve the look of your final output. Using text editor to open the site is not permitted)
+
+Guidelines:
+1. Download exercise3.zip. The directory should look like the one below.
+	  > Exercise 3
+		> images 
+		  -bean.jpg
+		  -pattern.jpg
+		> css
+		  -style.css
+		- index.html
+2. Write your HTML codes in "index.html" and your CSS codes in "style.css". 
+3. Use the files provided to insert images. 
+4. You can use different colors in styling your webpage.

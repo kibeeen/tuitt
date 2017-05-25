@@ -1,0 +1,57 @@
+body {
+	background-image: url(images/pattern.png);
+	color: white;
+	font-family: sans-serif;
+}
+
+p, ul, li {
+	color: white;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+h2 {
+	color: #6495ED;
+}
+
+h1{
+	letter-spacing: 3px;
+	color: #6495ED;
+
+
+}
+
+
+.box {
+	width: 45%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.8);
+	margin: -10px auto;
+	padding: 20px 50px 40px 50px;
+	box-shadow: 0 0 50px #000;
+}
+
+.photo {
+	width: 60%;
+	height: 60%;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0);
+	border: 1px dashed white;
+	margin: 50px auto auto auto;
+	padding: 20px 0 10px 0;
+}
+
+/*.image{
+	content:url("images/mariav.png");
+}*/
+
+img:hover {
+	content:url("images/mariav.png");
+
+
+}
+
+
+
+
+

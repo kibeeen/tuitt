@@ -1,0 +1,307 @@
+.black-container1 {
+	background-color: black;
+	height: 100%;
+	width: 700px;
+	padding: 10px;
+}
+
+.black-container2 {
+	background-color: black;
+	height: 100%;
+	width: 500px;
+	padding: 10px;
+}
+
+.black-container3 {
+	background-color: black;
+	height: 100%;
+	width: 1000px;
+	padding: 10px;
+}
+
+.final-container {
+	width: 100%;
+	height: 100%;
+}
+
+.comment-container {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+
+.white-border {
+	border: 1px solid white;
+	width: 150px;
+	height: 150x;
+}
+
+.replies-border {
+	height: 100%;
+	width: 100%;
+	border-left: 1px solid white;
+	margin-top: 0;
+/*	margin-left: -50px;*/
+	float: left;
+}
+
+.item1-box {
+	height: 150px;
+	width: 150px;
+	padding: 5px;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.smallgrey {
+	height: 50px;
+	width: 50px;
+}
+
+.widegrey {
+	height: 100px;
+	width: 100%;
+	padding: 0;
+}
+
+.largegrey {
+	height: 200px;
+	width: 100%;
+	padding: 0;
+}
+
+.baguiobox {
+	height: 100px;
+	width: 150px;
+}
+
+.box1 {
+	width: 23%;
+	float: left;
+}
+
+.box2 {
+	width: 100%;
+/*	float: right;*/
+}
+
+/* START ITEM 4*/
+.box3 {
+	width: 20%;
+	float: left;
+}
+
+.box4 {
+	width: 77%;
+	float: right;
+}
+/* END ITEM 4*/
+
+/* START ITEM 6*/
+.box5 {
+	width: 7%;
+	float: left;
+}
+
+.box6 {
+	width: 92%;
+	float: right;
+	box-sizing: border-box;
+	padding: 0 5px;
+}
+/* END ITEM 6*/
+
+/* ------- COMMENT SECTION --------*/
+
+.box7 {
+	width: 7%;
+	float: left;
+}
+
+.box8 {
+	width: 91%;
+	float: right;
+}
+
+/* ------- COMMENT SECTION --------*/
+
+/* ------- DIY GIFTS SECTION --------*/
+
+.box9 {
+	width: 40%;
+	float: left;
+}
+
+.box10 {
+	width: 59%;
+	float: right;
+	margin-right: -7px;
+}
+
+/* ------- DIY GIFTS SECTION --------*/
+
+.box11 {
+	width: 59%;
+	float: left;
+}
+
+.box12 {
+	width: 40%;
+	float: right;
+}
+
+.finalbox1 {
+	width: 60%;
+	float: left;
+}
+
+.finalbox2 {
+	width: 40%;
+	float: right;
+}
+
+.finalbox3 {
+	width: 40%;
+	float: left;
+}
+
+.finalbox4 {
+	width: 100%;
+/*	float: right;*/
+}
+
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.newfigure {
+	height: 100%;
+	width: 150px;
+	padding: 5px 5px 5px;
+	margin: 10px 10px 10px;
+	border: 1px solid white;
+}
+
+.newimg {
+	width: inherit;
+	height: inherit;
+}
+
+.figaro {
+	margin: 15px 0;
+}
+
+ul li {
+	display: inline;
+	background-color: gray;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	margin: 0 5px;
+}
+
+
+
+/* START OF ITEM 1 TARGETS */
+
+div > div > img {
+	height: 150px;
+	width: 150px;
+	padding: 10px;
+}
+
+div > span > img {
+	height: 150px;
+	width: 150px;
+	margin: 0 10px 0 0;
+}
+
+div > figure > img {	
+	height: 150px;
+	width: 150px;
+}
+
+/* END OF ITEM 1 TARGETS */
+
+div > figure {
+	height: 150px;
+	width: 150x;
+	border: 1px solid white;
+	padding: 10px 10px 50px 10px;
+	margin: 5px;
+}
+
+figure {
+	margin: 0;
+	float: left;
+}
+
+figcaption {
+	color: white;
+	margin-top: 10px;
+	text-align: center;
+}
+
+
+body {
+	color: white;
+}
+
+p {
+	margin: 0;
+}
+
+textarea {
+	color: black;
+}
+
+h5, h4, h1 {
+	margin-top: 3px;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+h4 + p {
+	font-style: italic;
+}
+
+h1 + p {
+	font-style: italic;
+	font-size: 12.6px;
+}
+
+
+
+
+div > span > span > img {
+	padding: 0;
+	height: 150px;
+	width: 150px;
+	margin: 0 5px 5px 0;
+}
+
+
+.box7 img {
+	padding: 5px;
+}
+
+.finalbox3 img {
+	margin: 0 5px 0 0;
+	padding: 0px;
+}
